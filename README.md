@@ -1,0 +1,3 @@
+# AI or Human Art Detector
+## Authors: George Bonilla and Mark Merchant
+This is a repo for working on our Machine Learning Final Project. Building still in progress .....
