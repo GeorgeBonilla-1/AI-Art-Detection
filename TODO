@@ -1,0 +1,7 @@
+1. Rewrite the data loading code
+2. check the rest of the code
+3. verify that the images are being correctly labeled(no ai images must be in the real art folder and vice versa)
+4. Test different parameters
+5. Add two more models
+6. Create clear results
+7. Evaluation visualizations
