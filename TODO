@@ -1,7 +1,9 @@
-1. Rewrite the data loading code
-2. check the rest of the code
-3. verify that the images are being correctly labeled(no ai images must be in the real art folder and vice versa)
-4. Test different parameters
-5. Add two more models
-6. Create clear results
-7. Evaluation visualizations
+1. Show Images from both classes
+2. Make a confusion matrix
+3. Accuracy/ Loss Curves
+4. Try VGG16
+5. Try Mobile net for transfer learning
+6. Try a simple ANN
+7. Compare results
+8. Add different hypermarket tuning
+9. Evaluate Overfitting
